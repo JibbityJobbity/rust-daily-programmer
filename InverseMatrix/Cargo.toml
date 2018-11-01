@@ -1,0 +1,6 @@
+[package]
+name = "InverseMatrix"
+version = "0.1.0"
+authors = ["JibbityJobbity <37820565+JibbityJobbity@users.noreply.github.com>"]
+
+[dependencies]
